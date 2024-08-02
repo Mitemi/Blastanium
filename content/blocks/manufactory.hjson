@@ -9,9 +9,20 @@
   "hasItems": true,
   "itemCapacity": 64,
 
-  "craftTime": 160,
+  "craftTime": 360,
   "updateEffect": "steam",
   "craftEffect": "plasticExplosion",
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawDefault"
+      },
+      {
+        "type": "DrawFade"
+      }
+    ]
+  },
   "consumes": {
     "power": 4,
     "items": {
@@ -19,15 +30,19 @@
         "blast-compound/3",
         "plastanium/2"
       ]
-    }
+    },
+    "liquids": {
+      "liquids": [
+        "water/3",
+      ]
+    },
   },
-  "consumeLiquid": "water/1",
   "outputItem": "compound/4",
 
   "requirements": [
     "titanium/80",
     "lead/40",
-    "silicon/70",
+    "silicon/70"
   ],
   "category": "crafting",
   "research": {
