@@ -1,0 +1,36 @@
+{
+  "localizedName": "Blastanium Manufactory",
+  "description": "Produces highly explosive Blastanium out of Blast Compound and Plastanium.",
+  "type": "GenericCrafter",
+  "health": 100,
+  "size": 3,
+  "hasPower": true,
+  "hasLiquids": true,
+  "hasItems": true,
+  "itemCapacity": 64,
+
+  "craftTime": 160,
+  "updateEffect": "steam",
+  "craftEffect": "plasticExplosion",
+  "consumes": {
+    "power": 4,
+    "items": {
+      "items": [
+        "blast-compound/3",
+        "plastanium/2"
+      ]
+    }
+  },
+  "consumeLiquid": "water/1",
+  "outputItem": "compound/4",
+
+  "requirements": [
+    "titanium/80",
+    "lead/40",
+    "silicon/70",
+  ],
+  "category": "crafting",
+  "research": {
+    "parent": "blast-mixer"
+  }
+}

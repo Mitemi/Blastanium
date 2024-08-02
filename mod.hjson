@@ -1,0 +1,10 @@
+{
+  "name": "blastanium",
+  "displayName": "Blastanium",
+  "author":"[[]green]Mitemi\n\n[[]gray]Contributor:\n[[]#c4d4e0]N4H4N",
+
+  "description": "Adds Blastanium, a compound of Blast Compound and Plastanium, as ammo for Serpulo turrets.",
+  "subtitle": "Big Blastanium Industrial Complex™\n",
+  "version": "1",
+  "minGameVersion": "146"
+}
