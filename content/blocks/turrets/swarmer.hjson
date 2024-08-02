@@ -1,0 +1,77 @@
+{
+  "ammoTypes": {
+    "blast-compound": {
+      "type": "MissileBulletType",
+      "speed": 3.7,
+      "damage": 10,
+      "width": 8,
+      "height": 8,
+      "shrinkY": 0,
+      "splashDamageRadius": 30,
+      "splashDamage": 45,
+      "ammoMultiplier": 5,
+      "hitEffect": "blastExplosion",
+      "despawnEffect": "blastExplosion",
+      "status": "blasted",
+      "statusDuration": 120
+    },
+    "pyratite": {
+      "type": "MissileBulletType",
+      "speed": 3.7,
+      "damage": 12,
+      "frontColor": "ffae57",
+      "backColor": "ffa257",
+      "width": 7,
+      "height": 8,
+      "shrinkY": 0,
+      "homingPower": 0.08,
+      "splashDamageRadius": 20,
+      "splashDamage": 45,
+      "makeFire": true,
+      "ammoMultiplier": 5,
+      "hitEffect": "blastExplosion",
+      "status": "burning"
+    },
+    "surge-alloy": {
+      "type": "MissileBulletType",
+      "speed": 3.7,
+      "damage": 18,
+      "width": 8,
+      "height": 8,
+      "shrinkY": 0,
+      "splashDamageRadius": 25,
+      "splashDamage": 35,
+      "hitEffect": "blastExplosion",
+      "despawnEffect": "blastExplosion",
+      "ammoMultiplier": 4,
+      "lightningDamage": 10,
+      "lightning": 2,
+      "lightningLength": 10
+    },
+    "compound": {
+      "type": "FlakBulletType",
+      "speed": 4,
+      "damage": 15,
+      "shootEffect": "shootBig",
+      "ammoMultiplier": 5,
+      "splashDamage": 33,
+      "splashDamageRadius": 35,
+      "collidesGround": true,
+      "status": "blasted",
+      "statusDuration": 120
+      "fragBullet": {
+        "type": "BasicBulletType",
+        "speed": 2.5,
+        "damage": 14,
+        "sprite": "bullet",
+        "width": 10,
+        "height": 12,
+        "shrinkY": 1,
+        "lifetime": 15,
+        "backColor": "7f7f7f",
+        "frontColor": "c8ff00",
+        "despawnEffect": "none"
+      }
+    }
+  }
+}
