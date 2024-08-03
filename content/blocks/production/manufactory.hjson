@@ -24,7 +24,7 @@
     ]
   },
   "consumes": {
-    "power": 4,
+    "power": 16,
     "items": {
       "items": [
         "blast-compound/3",
@@ -33,7 +33,7 @@
     },
     "liquids": {
       "liquids": [
-        "water/3",
+        "water/0.75",
       ]
     },
   },
