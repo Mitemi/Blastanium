@@ -9,7 +9,7 @@
   "hasItems": true,
   "itemCapacity": 64,
 
-  "craftTime": 360,
+  "craftTime": 190,
   "updateEffect": "steam",
   "craftEffect": "plasticExplosion",
   "drawer": {
@@ -27,26 +27,26 @@
     "power": 16,
     "items": {
       "items": [
-        "blast-compound/3",
-        "plastanium/2"
+        "compound/3",
+        "phase-fabric/2"
       ]
     },
     "liquids": {
       "liquids": [
-        "water/0.75",
+        "slag/0.35",
       ]
     },
   },
-  "outputItem": "compound/4",
+  "outputItem": "phasé/4",
 
   "requirements": [
-    "titanium/80",
+    "titanium/160",
     "lead/40",
     "metaglass/40",
     "silicon/70"
   ],
   "category": "crafting",
   "research": {
-    "parent": "blast-mixer"
+    "parent": "manufactory"
   }
 }

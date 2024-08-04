@@ -1,0 +1,16 @@
+{
+  "localizedName": "Blastanium Phasé",
+  "description": "By combining phase fabric and Blastanium, phased blastanium can be created. Suitable for walls.",
+  "type": "material",
+  "color": "743444",
+  "cost": 1,
+
+  "flammability": 1,
+  "explosiveness": 1,
+  "charge": 0,
+  "radioactivity": 0,
+
+  "research": {
+    "parent": "compound",
+  }
+}

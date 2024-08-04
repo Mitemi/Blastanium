@@ -12,9 +12,5 @@
 
   "research": {
     "parent": "plastanium",
-    "requirements": [
-      "blast-compound/100",
-      "plastanium/100"
-    ]
   }
 }
