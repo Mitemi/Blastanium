@@ -1,16 +1,16 @@
 {
-  "localizedName": "Blastanium Phasé Manufactory",
-  "description": "Produces Blastanium Phasé out of Blastanium and Phase Fabric.",
+  "localizedName": "Blastanium Mill",
+  "description": "Produces highly explosive Blastanium out of Blast Compound and Plastanium.",
   "type": "GenericCrafter",
   "health": 100,
-  "size": 2,
+  "size": 3,
   "hasPower": true,
   "hasLiquids": true,
   "hasItems": true,
   "itemCapacity": 64,
-  "liquidCapacity": 32,
+  "liquidCapacity": 96,
 
-  "craftTime": 190,
+  "craftTime": 360,
   "updateEffect": "steam",
   "craftEffect": "plasticExplosion",
   "drawer": {
@@ -25,29 +25,31 @@
     ]
   },
   "consumes": {
-    "power": 16,
+    "power": 24,
     "items": {
       "items": [
-        "compound/3",
+        "graphite/3",
+        "oxide/2",
         "phase-fabric/2"
       ]
     },
     "liquids": {
       "liquids": [
-        "slag/0.35",
+        "slag/0.75",
       ]
     },
   },
-  "outputItem": "phasé/4",
+  "outputItem": "compound/4",
 
   "requirements": [
-    "titanium/160",
-    "lead/40",
-    "metaglass/40",
-    "silicon/70"
+    "tungsten/160",
+    "silicon/100",
+    "graphite/80",
+    "oxide/40",
+    "carbide/10"
   ],
   "category": "crafting",
   "research": {
-    "parent": "manufactory"
+    "parent": "phase-synthesizer"
   }
 }

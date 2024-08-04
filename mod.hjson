@@ -1,9 +1,9 @@
 {
   "name": "blastanium",
   "displayName": "Blastanium",
-  "author":"[[]lime]Mitemi\n\n[[]gray]Contributor:\n[[]#c4d4e0]N4H4N[[]gray], [[]cyan]Tikup",
+  "author":"[[]lime]Mitemi\n\n[[]gray]Contributor:\n[[]#c4d4e0]N4H4N[[]lightgray], [[]cyan]Tikup[[]lightgray], [[]red]XSA",
 
-  "description": "Adds Blastanium, a compound of Blast Compound and Plastanium, as ammo for Serpulo turrets.\n\nBlastanium can be used in Salvos, Swarmers, Ripples, Cyclones, and Spectres.\n\nDiscord Server: https://discord.com/invite/TJKZgr6UDg",
+  "description": "Adds Blastanium, a compound of Blast Compound and Plastanium, as ammo for Serpulo turrets.\n\nBlastanium can be used in Salvos, Swarmers, Ripples, Cyclones, and Spectres, as well as Titans and Scathes. Blastanium used in a Scathe will not fire as a missile.\n\nDiscord Server: https://discord.com/invite/TJKZgr6UDg",
   "subtitle": "Big Blastanium Industrial Complex™",
   "version": "1",
   "minGameVersion": "146"

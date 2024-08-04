@@ -5,7 +5,7 @@
   "color": "e62a00",
   "cost": 1,
 
-  "flammability": 0,
+  "flammability": 0.2,
   "explosiveness": 1,
   "charge": 0,
   "radioactivity": 0,

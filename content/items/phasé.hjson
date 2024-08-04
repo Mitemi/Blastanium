@@ -5,10 +5,10 @@
   "color": "743444",
   "cost": 1,
 
-  "flammability": 1,
+  "flammability": 0.25,
   "explosiveness": 1,
   "charge": 0,
-  "radioactivity": 0,
+  "radioactivity": 0.4,
 
   "research": {
     "parent": "compound",

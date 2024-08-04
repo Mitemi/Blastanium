@@ -15,7 +15,7 @@
   "consumes": {
     "power": 0.1875
   },
-  "baseExplosiveness": 1000
+  "baseExplosiveness": 250
 
   "requirements": [
     "phasé/6",
