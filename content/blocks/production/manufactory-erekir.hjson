@@ -1,6 +1,6 @@
 {
   "localizedName": "Blastanium Mill",
-  "description": "Produces highly explosive Blastanium out of Blast Compound and Plastanium.",
+  "description": "Produces highly explosive Blastanium.",
   "type": "GenericCrafter",
   "health": 100,
   "size": 3,
