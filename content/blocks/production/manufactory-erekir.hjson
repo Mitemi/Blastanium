@@ -1,5 +1,5 @@
 {
-  "localizedName": "Blastanium Mill",
+  "Name": "Blastanium Mill",
   "description": "Produces highly explosive Blastanium.",
   "type": "GenericCrafter",
   "health": 100,

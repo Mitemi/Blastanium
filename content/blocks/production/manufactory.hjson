@@ -1,5 +1,5 @@
 {
-  "localizedName": "Blastanium Manufactory",
+  "Name": "Blastanium Manufactory",
   "description": "Produces highly explosive Blastanium out of Blast Compound and Plastanium.",
   "type": "GenericCrafter",
   "health": 100,

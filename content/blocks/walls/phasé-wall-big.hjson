@@ -1,5 +1,5 @@
 {
-  "localizedName": "Large Blastanium Phasé Wall",
+  "Name": "Large Blastanium Phasé Wall",
   "description": "A larger reinforced, force shielded wall. Able to absorb lasers and deflect bullets. May explode.",
   "type": "ShieldWall",
 

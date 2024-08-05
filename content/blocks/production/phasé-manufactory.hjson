@@ -1,5 +1,5 @@
 {
-  "localizedName": "Blastanium Phasé Manufactory",
+  "Name": "Blastanium Phasé Manufactory",
   "description": "Produces Blastanium Phasé out of Blastanium and Phase Fabric.",
   "type": "GenericCrafter",
   "health": 100,
