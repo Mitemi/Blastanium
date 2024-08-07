@@ -3,12 +3,12 @@
   "description": "A reinforced, force shielded wall. Able to absorb lasers and deflect bullets. May explode.",
   "type": "ShieldWall",
 
-  "health": 1540,
+  "health": 2310,
   "size": 1,
   "hasPower": true,
   "conductivePower": true,
 
-  "shieldHealth": 75,
+  "shieldHealth": 245,
   "radius": 8,
   "absorbLasers": true,
   "chanceDeflect": 15
@@ -18,9 +18,9 @@
   "baseExplosiveness": 250
 
   "requirements": [
-    "phasé/6",
-    "phase-fabric/2",
-    "plastanium/2",
+    "phasé/4",
+    "phase-fabric/1",
+    "plastanium/1",
   ],
   "category": "defense",
   "research": {
