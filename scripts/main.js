@@ -28,7 +28,7 @@ const compoundBulletSpectre = extend(FlakBulletType, {
 
 const compoundBulletSalvo = extend(FlakBulletType, {
     speed: 4,
-    lifetime: 60,
+    lifetime: 65,
     damage: 28,
     shootEffect: Fx.shootBig,
     ammoMultiplier: 5,
@@ -78,7 +78,7 @@ const compoundBulletCyclone = extend(FlakBulletType, {
 
 const compoundBulletRipple = extend(ArtilleryBulletType, {
     speed: 4,
-    lifetime: 65,
+    lifetime: 55,
     damage: 65,
     shootEffect: Fx.shootBig,
     ammoMultiplier: 2,
@@ -103,7 +103,7 @@ const compoundBulletRipple = extend(ArtilleryBulletType, {
 
 const compoundBulletSwarmer = extend(MissileBulletType, {
     speed: 4,
-    lifetime: 55,
+    lifetime: 50,
     damage: 15,
     shootEffect: Fx.shootBig,
     ammoMultiplier: 5,
@@ -165,7 +165,7 @@ const compoundBulletScathe = extend(ArtilleryBulletType, {
 
 const compoundBulletTitan = extend(ArtilleryBulletType, {
     speed: 4,
-    lifetime: 95,
+    lifetime: 90,
     damage: 0,
     shootEffect: Fx.shootTitan,
     ammoMultiplier: 2,
