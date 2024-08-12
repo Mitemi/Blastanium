@@ -141,7 +141,7 @@ const compoundBulletScathe = extend(ArtilleryBulletType, {
     Damage: 1000,
     shootEffect: Fx.shootTitan,
     ammoMultiplier: 2,
-    splashDamage: 2900,
+    splashDamage: 3000,
     splashDamageRadius: 75,
     collidesGround: true,
     status: StatusEffects.blasted,
