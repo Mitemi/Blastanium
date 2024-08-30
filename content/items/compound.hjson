@@ -6,7 +6,7 @@
   "cost": 1,
 
   "flammability": 0.2,
-  "explosiveness": 1,
+  "explosiveness": 10,
   "charge": 0,
   "radioactivity": 0,
 
