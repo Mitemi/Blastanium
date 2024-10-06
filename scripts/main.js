@@ -134,7 +134,6 @@ Blocks.spectre.ammoTypes.put(Vars.content.item("blastanium-compound"), compoundB
 Blocks.swarmer.ammoTypes.put(Vars.content.item("blastanium-compound"), compoundBulletSwarmer);
 
 // Vanilla Erekir Turrets Compatibility
-
 const compoundBulletScathe = extend(ArtilleryBulletType, {
     speed: 4,
     lifetime: 300,
