@@ -10,7 +10,7 @@
   "itemCapacity": 64,
   "liquidCapacity": 32,
 
-  "craftTime": 190,
+  "craftTime": 120,
   "updateEffect": "steam",
   "craftEffect": "plasticExplosion",
   "drawer": {
@@ -38,7 +38,7 @@
       ]
     },
   },
-  "outputItem": "phasé/4",
+  "outputItem": "phasé/5",
 
   "requirements": [
     "titanium/160",

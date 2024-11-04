@@ -10,7 +10,7 @@
   "itemCapacity": 64,
   "liquidCapacity": 96,
 
-  "craftTime": 360,
+  "craftTime": 280,
   "updateEffect": "steam",
   "craftEffect": "plasticExplosion",
   "drawer": {
