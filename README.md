@@ -21,12 +21,14 @@ Note: Blastanium used in a Scathe does not fire a missile.
 - **Phased Blastanium** can be utilized to create extremely durable yet hazardous walls that are a combination of (shielded) phased and plastanium walls, with the properties of both.
 
 ## Installation
-The main and recommended way of downloading Blastanium is to go through the **Mindustry Mod Browser** within the game. To manually download the mod:
+The main and recommended way of downloading Blastanium is to go through the **Mindustry Mod Browser** within the game. 
+
+To manually download the mod:
 
 1. Download the mod from the [releases](https://github.com/Mitemi/Blastanium/releases) section.
-2. Extract the zipped mod file.
+~~2. Extract the zipped mod file.~~
 3. Place the extracted folder into your Mindustry `mods` folder.
-4. Restart Mindustry.
+4. Restart Mindustry if needed.
 
 ## Credits
 Special thanks to the Blastanium contributors.
